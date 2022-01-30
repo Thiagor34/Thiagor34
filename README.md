@@ -12,8 +12,8 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas. Estou a cada d
 
 <div>
   <a href="https://github.com/Thiagor34">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagor34&theme=chartreuse-dark&show_icons=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagor34&layout=compact&langs_count=16&theme=chartreuse-dark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagor34&theme=chartreuse-dark&show_icons=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagor34&layout=compact&langs_count=16&theme=chartreuse-dark">
 </div>
   
   ##
