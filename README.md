@@ -1,5 +1,5 @@
 ### Olá! Seja bem vindo.
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas. Estou a cada dia me aperfeiçoando e buscando conhecimentos na área. Meus contatos a seguir para trocas de conhecimentos, jobs, etc...
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas. Estou a cada dia me aperfeiçoando e buscando conhecimentos na área. Meus contatos abaixo para trocas de conhecimentos, jobs, etc...
 <div>
   <a href="https://www.linkedin.com/in/thiago-costa-6bb77721b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/thiago.rcosta/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
